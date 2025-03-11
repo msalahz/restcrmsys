@@ -5,7 +5,7 @@ This project is in its early planning and development phase. Features described 
 
 ## Overview
 
-Restcrmsys is a comprehensive restaurant management system built with Node.js and React. It provides an end-to-end solution for restaurant owners to manage their business operations, including online ordering, reservations, table management, menu customization, staff management, and more.
+estcrmsys is a comprehensive restaurant management system built with Node.js and React. It provides an end-to-end solution for restaurant owners to manage their business operations, including online ordering, reservations, table management, menu customization, staff management, and more.
 
 ## Key Features
 
@@ -25,9 +25,9 @@ Restcrmsys is a comprehensive restaurant management system built with Node.js an
 ```
 restcrmsys/
 ├── docs/
-│   ├── client-requirements.md  # Detailed client requirements
-│   └── spacs.md                # Technical specifications and user stories
-└──  README.md                   # This file
+│   ├── client-requirements.md             # Detailed client requirements
+│   └── specs.md                           # Technical specifications and user stories
+└──  README.md                             # This file
 ```
 
 ## Technology Stack
